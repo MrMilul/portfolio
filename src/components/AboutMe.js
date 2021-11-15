@@ -19,7 +19,7 @@ const AboutMe = () => {
                             {" "} <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank">Agile</a> {" "}
                             methodology I plan, design, code, evaluate, and deploy
                             your desier application.
-                            Mainly, Javascript will be the main language in your project
+                           Javascript will be the main language in your project
                             for both back-end and front-end. In addition, it is possible to code the back-end of your application by
                             Python(Django). Your Database would probably be coded by No-SQL but feel free to choose SQl one either.
                             Finally, if designing, coding, and all the requirments were perfectly matched to your needs,
